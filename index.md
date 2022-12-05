@@ -1,4 +1,4 @@
 ---
-title: Hello
+title: This is the index page
 ---
 
